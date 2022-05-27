@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+}
+
+#V{
+    width: 100%;
+    padding: 10px, red;
+    
+
+}
+h1{
+    color: mediumblue;
+    text-decoration: underline;
+    text-decoration-line: wavy;
+}
+
+h2{ 
+    color: mediumblue;
+    text-decoration: underline;
+    text-decoration-line: wavy  
+}
